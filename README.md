@@ -1,5 +1,5 @@
-- I’m currently making games for [TIC-80 tiny computer](https://tic80.com).
-- I’m interesting in Rust 🦀
+- I’m currently making games with [Defold](https://defold.com) engine.
+- I’m interesting in [Rust](https://www.rust-lang.org) 🦀
 
 <!---
 enotofil/enotofil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
